@@ -5,6 +5,12 @@
 
 
 ![Static Badge](https://img.shields.io/badge/waste.classifier.model-operational-blue)
+
+
+
+
+
+
 ![Static Badge](https://img.shields.io/badge/employee.management.SYSTEM-runnable-yellow)
 
 
