@@ -4,13 +4,17 @@
 
 
 
+![Static Badge](https://img.shields.io/badge/waste.classifier.model-operational-green)
 
 
 
 ![Static Badge](https://img.shields.io/badge/pacific.chat-maintenance-red)
 
 
-![Static Badge](https://img.shields.io/badge/waste.classifier.model-operational-green)
+
+![Static Badge](https://img.shields.io/badge/employee.management.SYSTEM-runnable-red)
+
+
 
 
 
