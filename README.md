@@ -1,5 +1,7 @@
 
 ![Static Badge](https://img.shields.io/badge/PacificServ-Operational-blue)
+![Static Badge](https://img.shields.io/badge/pacific.chat-maintenance-red)
+
 
 
 
