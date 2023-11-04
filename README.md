@@ -3,6 +3,9 @@
 
 
 
+![Static Badge](https://img.shields.io/badge/PacifiCloud-Operational-blue)
+
+
 
 ![Static Badge](https://img.shields.io/badge/waste.classifier.model-operational-blue)
 
