@@ -7,6 +7,10 @@
 
 
 
+![Static Badge](https://img.shields.io/badge/PacificBridge-Operational-purple)
+
+
+
 ![Static Badge](https://img.shields.io/badge/waste.classifier.model-operational-blue)
 
 
