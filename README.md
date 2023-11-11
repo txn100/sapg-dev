@@ -15,3 +15,4 @@
 ![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
