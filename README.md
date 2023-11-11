@@ -31,4 +31,6 @@
 ## Libraries and Platforms
 ![](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Library-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
+![](https://img.shields.io/badge/Hosting-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
+![](https://img.shields.io/badge/Hosting-PythonAnywhere-3776AB?style=flat&logo=python&logoColor=white)
+
