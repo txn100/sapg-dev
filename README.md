@@ -20,6 +20,8 @@
 ![](https://img.shields.io/badge/Framework-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Maven-C71A36?style=flat&logo=apache-maven&logoColor=red)
+![](https://img.shields.io/badge/Framework-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+
 
 
 ## Web-Development Languages
