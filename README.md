@@ -28,9 +28,14 @@
 ![](https://img.shields.io/badge/Web-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Web-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-## Libraries and Platforms
+## Libraries, Hosting Platforms, Tools, and Version Controls
 ![](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Library-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Library-Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![](https://img.shields.io/badge/Hosting-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
 ![](https://img.shields.io/badge/Hosting-PythonAnywhere-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Realtime-Pusher-300D4F?style=flat&logo=pusher&logoColor=white)
+![](https://img.shields.io/badge/VCS-Git-F05032?style=flat&logo=git&logoColor=white)
+
+
 
