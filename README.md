@@ -33,6 +33,7 @@
 
 ## Libraries, Hosting Platforms, Tools, and Version Controls
 ![](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat)
 ![](https://img.shields.io/badge/Library-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/Library-Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![](https://img.shields.io/badge/Hosting-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=00C7B7)
