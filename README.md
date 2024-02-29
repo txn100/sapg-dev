@@ -3,6 +3,7 @@
 
 ## Environment
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Debian-D70A53?style=flat&logo=debian&logoColor=white)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Editor-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![](https://img.shields.io/badge/Editor-PyCharm-21D789?style=flat&logo=pycharm&logoColor=white)
