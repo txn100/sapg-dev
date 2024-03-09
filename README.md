@@ -23,15 +23,6 @@
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Maven-C71A36?style=flat&logo=apache-maven&logoColor=red)
 
-
-
-
-## Web-Development Languages
-![](https://img.shields.io/badge/Web-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Web-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Web-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-
 ## Libraries, Hosting Platforms, Tools, and Version Controls
 ![](https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=flat)
